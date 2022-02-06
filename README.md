@@ -34,11 +34,13 @@ These instructions will give you a copy of the project up and running on your lo
 Accuracy & AUC Comparsion
 ![Accuracy & AUC Comparsion](Screenshots/Accuracy&AUC_Comparison.PNG)
 
+
 Sensitivity & Specificity Comparsion
 ![Sensitivity Comparsion](Screenshots/Sensitivity&Specificity_Comparison.PNG)
 
-Confusion Matrix Comparison
+
+<!-- Confusion Matrix Comparison
 ![Confusion Matrix Comparison](Screenshots/ConfusionMatrix_Comparison.png)
 
 ROC Comparsion
-![ROC Comparsion](Screenshots/ROC_Comparsion.png)
+![ROC Comparsion](Screenshots/ROC_Comparsion.png) -->
