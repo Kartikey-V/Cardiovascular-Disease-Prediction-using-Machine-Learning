@@ -32,10 +32,12 @@ These instructions will give you a copy of the project up and running on your lo
 ## Working 
 
 Accuracy & AUC Comparsion
+
 ![Accuracy & AUC Comparsion](Screenshots/Accuracy&AUC_Comparison.PNG)
 
 
 Sensitivity & Specificity Comparsion
+
 ![Sensitivity Comparsion](Screenshots/Sensitivity&Specificity_Comparison.PNG)
 
 
