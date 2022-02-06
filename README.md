@@ -41,8 +41,10 @@ Sensitivity & Specificity Comparsion
 ![Sensitivity Comparsion](Screenshots/Sensitivity&Specificity_Comparison.PNG)
 
 
-<!-- Confusion Matrix Comparison
+Confusion Matrix Comparison
+
 ![Confusion Matrix Comparison](Screenshots/ConfusionMatrix_Comparison.png)
 
 ROC Comparsion
-![ROC Comparsion](Screenshots/ROC_Comparsion.png) -->
+
+![ROC Comparsion](Screenshots/ROC_Comparsion.png)
