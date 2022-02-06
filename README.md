@@ -32,16 +32,16 @@ These instructions will give you a copy of the project up and running on your lo
 ## Working 
 
 Accuracy Comparison
-![Accuracy Comparison](Screenshots/Accuracy_Comparison.png)
+![Accuracy Comparison](Screenshots/Accuracy_Comparison.PNG)
 
 Sensitivity Comparsion
-![Sensitivity Comparsion](Screenshots/Sensitivity_Comparsion.png)
+![Sensitivity Comparsion](Screenshots/Sensitivity_Comparsion.PNG)
 
 Specificity Comparsion
-![Specificity Comparsion](Screenshots/Specificity_Comparsion.png)
+![Specificity Comparsion](Screenshots/Specificity_Comparsion.PNG)
 
 AUC Comparsion
-![AUC Comparsion](Screenshots/AUC_Comparsion.png)
+![AUC Comparsion](Screenshots/AUC_Comparsion.PNG)
 
 Confusion Matrix Comparison
 ![Confusion Matrix Comparison](Screenshots/ConfusionMatrix_Comparison.png)
