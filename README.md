@@ -4,7 +4,7 @@ In this project, a Multi Class Classification was perofrmed with using 5 Machine
 
 The dataset was processed to check for any missing values, none were found. Data type of each feature was found and Pearson Values were calculated for each feature . Any feature having P-value above 0.1 was not taken into account while training the model 
 
-The dataset was split in a 90:10 ratio and trained and compared on the basis of Accuracy, Sensitivity, Specificity, AUC. Confisuion Matrices and ROC Curve were also plotted
+The dataset was split in a 90:10 ratio and trained and compared on the basis of Accuracy, Sensitivity, Specificity, AUC. Confusion Matrix and ROC Curve were also plotted
 - Logistic Regression
 - Naive Bayes
 - Decision Trees
